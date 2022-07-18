@@ -1,0 +1,17 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "description": "life tools",
+  "main": "index.js",
+  "repository": "https://github.com/idabaicai/tool.git",
+  "author": "idabaicai <icandebug@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.35",
+    "vuepress": "^2.0.0-beta.35"
+  }
+}
